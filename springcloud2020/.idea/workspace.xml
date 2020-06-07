@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b27f675c-bcdd-4972-ae89-e73a78a8c73a" name="Default Changelist" comment="code spring cloud" />
+    <list id="f7b573b1-392c-4ce0-9180-d2dff540678a" name="ignore Changelist" comment="ignore Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/space/mvnrepo" />
+        <option name="mavenHome" value="$USER_HOME$/space/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/space/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1cKhs250iG8LVlACUBwNg1xDhEs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/neven/consumer" />
+      <recent name="$PROJECT_DIR$/cloud-consumer-order80/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neven.commons.entity" />
+      <recent name="com.neven.consumer.common" />
+      <recent name="com.neven.consumer.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CloudEurekaServer7001Application">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cloud-eureka-server7001" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cloud-eureka-server7001" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaServer7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neven.cloudeurekaserver7001.CloudEurekaServer7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerOrder80App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neven.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neven.consumer.ConsumerOrder80App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neven.springcloud.Payment8001Application" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Payment8001Application" />
+      <item itemvalue="Spring Boot.CloudEurekaServer7001Application" />
+      <item itemvalue="Spring Boot.ConsumerOrder80App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerOrder80App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27f675c-bcdd-4972-ae89-e73a78a8c73a" name="Default Changelist" comment="" />
+      <changelist id="f7b573b1-392c-4ce0-9180-d2dff540678a" name="ignore Changelist" comment="" />
+      <created>1590283395948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590283395948</updated>
+      <workItem from="1590283400648" duration="3284000" />
+      <workItem from="1590286971486" duration="5000" />
+      <workItem from="1590290968528" duration="48000" />
+      <workItem from="1590291027434" duration="5029000" />
+      <workItem from="1590305399211" duration="3000" />
+      <workItem from="1590419502313" duration="4009000" />
+      <workItem from="1591491355015" duration="1256000" />
+      <workItem from="1591493152147" duration="498000" />
+      <workItem from="1591493689500" duration="262000" />
+      <workItem from="1591494073905" duration="1203000" />
+      <workItem from="1591495361471" duration="4074000" />
+      <workItem from="1591501201638" duration="789000" />
+      <workItem from="1591502022723" duration="2912000" />
+    </task>
+    <task id="LOCAL-00001" summary="code spring cloud">
+      <created>1591502767395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502767395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;code spring cloud&quot;&#10;&#10;This reverts commit 562a593a">
+      <created>1591503389658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591503389658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="code spring cloud" />
+    <MESSAGE value="Revert &quot;code spring cloud&quot;&#10;&#10;This reverts commit 562a593a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;code spring cloud&quot;&#10;&#10;This reverts commit 562a593a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="100" key="#Notifications" timestamp="1591526380720">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="318" y="100" key="#Notifications/0.23.1440.820@0.23.1440.820" timestamp="1591526380720" />
+    <state x="200" y="23" width="1024" height="820" key="#Project_Structure" timestamp="1591502122421">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="200" y="23" width="1024" height="820" key="#Project_Structure/0.23.1440.820@0.23.1440.820" timestamp="1591502122421" />
+    <state x="145" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591501882399">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="145" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.820@0.23.1440.820" timestamp="1591501882399" />
+    <state x="455" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1590292199218">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="455" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.820@0.23.1440.820" timestamp="1590292199218" />
+    <state x="333" y="125" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591502000373">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="333" y="125" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.820@0.23.1440.820" timestamp="1591502000373" />
+    <state x="542" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590308865839">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="542" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.820@0.23.1440.820" timestamp="1590308865839" />
+    <state x="76" y="23" width="1226" height="771" key="CommitChangelistDialog2" timestamp="1591503683889">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="76" y="23" width="1226" height="771" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1591503683889" />
+    <state width="364" height="466" key="DebuggerActiveHint" timestamp="1590306656298">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="364" height="466" key="DebuggerActiveHint/0.23.1440.820@0.23.1440.820" timestamp="1590306656298" />
+    <state x="524" y="355" key="Github.CreateGistDialog" timestamp="1591526373883">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="524" y="355" key="Github.CreateGistDialog/0.23.1440.820@0.23.1440.820" timestamp="1591526373883" />
+    <state x="563" y="333" key="Github.ShareDialog" timestamp="1591526476556">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="563" y="333" key="Github.ShareDialog/0.23.1440.820@0.23.1440.820" timestamp="1591526476556" />
+    <state width="476" height="55" key="GridCell.Tab.0.bottom" timestamp="1591502001276">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.843@0.0.1440.843" timestamp="1590306433749" />
+    <state width="476" height="55" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1591502001276" />
+    <state width="476" height="55" key="GridCell.Tab.0.center" timestamp="1591502001275">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.843@0.0.1440.843" timestamp="1590306433748" />
+    <state width="476" height="55" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1591502001275" />
+    <state width="476" height="55" key="GridCell.Tab.0.left" timestamp="1591502001275">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.843@0.0.1440.843" timestamp="1590306433747" />
+    <state width="476" height="55" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1591502001275" />
+    <state width="476" height="55" key="GridCell.Tab.0.right" timestamp="1591502001275">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.843@0.0.1440.843" timestamp="1590306433748" />
+    <state width="476" height="55" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1591502001275" />
+    <state width="962" height="361" key="GridCell.Tab.1.bottom" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.843@0.0.1440.843" timestamp="1590306433750" />
+    <state width="962" height="361" key="GridCell.Tab.1.bottom/0.23.1440.820@0.23.1440.820" timestamp="1590419492418" />
+    <state width="962" height="361" key="GridCell.Tab.1.center" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.843@0.0.1440.843" timestamp="1590306433749" />
+    <state width="962" height="361" key="GridCell.Tab.1.center/0.23.1440.820@0.23.1440.820" timestamp="1590419492417" />
+    <state width="962" height="361" key="GridCell.Tab.1.left" timestamp="1590419492417">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.843@0.0.1440.843" timestamp="1590306433749" />
+    <state width="962" height="361" key="GridCell.Tab.1.left/0.23.1440.820@0.23.1440.820" timestamp="1590419492417" />
+    <state width="962" height="361" key="GridCell.Tab.1.right" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.843@0.0.1440.843" timestamp="1590306433750" />
+    <state width="962" height="361" key="GridCell.Tab.1.right/0.23.1440.820@0.23.1440.820" timestamp="1590419492418" />
+    <state width="962" height="361" key="GridCell.Tab.2.bottom" timestamp="1590419492419">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="962" height="361" key="GridCell.Tab.2.bottom/0.23.1440.820@0.23.1440.820" timestamp="1590419492419" />
+    <state width="962" height="361" key="GridCell.Tab.2.center" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="962" height="361" key="GridCell.Tab.2.center/0.23.1440.820@0.23.1440.820" timestamp="1590419492418" />
+    <state width="962" height="361" key="GridCell.Tab.2.left" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="962" height="361" key="GridCell.Tab.2.left/0.23.1440.820@0.23.1440.820" timestamp="1590419492418" />
+    <state width="962" height="361" key="GridCell.Tab.2.right" timestamp="1590419492418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="962" height="361" key="GridCell.Tab.2.right/0.23.1440.820@0.23.1440.820" timestamp="1590419492418" />
+    <state x="254" y="167" key="Maven.ArtifactSearchDialog" timestamp="1591501779221">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="254" y="167" key="Maven.ArtifactSearchDialog/0.23.1440.820@0.23.1440.820" timestamp="1591501779221" />
+    <state x="269" y="139" key="RollbackChangesDialog" timestamp="1591503467379">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="269" y="139" key="RollbackChangesDialog/0.23.1440.820@0.23.1440.820" timestamp="1591503467378" />
+    <state x="313" y="23" width="1024" height="820" key="SettingsEditor" timestamp="1591526287158">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="313" y="23" width="1024" height="820" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1591526287158" />
+    <state x="564" y="356" key="VCS.ChangelistChooser" timestamp="1591502581418">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="564" y="356" key="VCS.ChangelistChooser/0.23.1440.820@0.23.1440.820" timestamp="1591502581418" />
+    <state x="550" y="306" key="VCS.EditChangelistDialog" timestamp="1591500718001">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="550" y="306" key="VCS.EditChangelistDialog/0.23.1440.820@0.23.1440.820" timestamp="1591500718001" />
+    <state x="312" y="156" key="Vcs.Push.Dialog.v2" timestamp="1591503729715">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="312" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1591503729715" />
+    <state x="508" y="298" key="git4idea.rebase.GitRebaseDialog" timestamp="1591503438992">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="508" y="298" key="git4idea.rebase.GitRebaseDialog/0.23.1440.820@0.23.1440.820" timestamp="1591503438992" />
+    <state x="534" y="330" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591503656738">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="534" y="330" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.820@0.23.1440.820" timestamp="1591503656738" />
+    <state x="451" y="69" width="845" height="674" key="new project wizard" timestamp="1590421835302">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="451" y="69" width="845" height="674" key="new project wizard/0.23.1440.820@0.23.1440.820" timestamp="1590421835302" />
+  </component>
+</project>
